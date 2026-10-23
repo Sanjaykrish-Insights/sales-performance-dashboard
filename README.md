@@ -1,2 +1,2 @@
 # sales-performance-dashboard
-Interactive sales analytics dashboard built with Power BI, DAX, Data Modeling and Power Query.
+Interactive Power BI business analytics dashboard demonstrating sales, profitability, customer, product, operations and returns analysis.
